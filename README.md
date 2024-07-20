@@ -1,4 +1,4 @@
-<img src="foto perfil GITHUB">
+<img src="foto.png">
 - 👋 Hola soy Jemilé Feliciano
 - 👀 Estoy interesada en tecnología educativa e inteligencia artificial
 - 🌱 Estoy actualmente aprendiendo sobre inteligencia artificial  ...
